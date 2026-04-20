@@ -4,7 +4,7 @@
 
 ### 🚀 .NET Backend Developer from Jordan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=.NET+Backend+Developer;React+Frontend+Developer;Clean+Architecture+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=.NET+Backend+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
 
